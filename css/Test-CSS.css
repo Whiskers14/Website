@@ -5,15 +5,8 @@ body {
 }
 
 li {
-    display     : inline;
-    margin-right: 10px;
-}
-
-li.coming-soon {
-    display: none;
-}
-
-ul {
+    display         : inline;
+    margin-right    : 10px;
     position        : fixed;
     top             : 0px;
     left            : 0px;
@@ -21,4 +14,8 @@ ul {
     margin          : 0px;
     width           : 100%;
     background-color: #efefef;
+}
+
+li.coming-soon {
+    display: none;
 }
