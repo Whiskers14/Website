@@ -1,12 +1,13 @@
 body {
     width           : 960px;
-    font-famiily    : Roboto;
+    margin          : 0 auto;
+    font-family    : Roboto;
     background-color: rgb(177, 177, 177);
 }
 
 li {
-    display         : inline;
-    margin-right    : 10px;
+    display     : inline;
+    margin-right: 10px;
 }
 
 li.coming-soon {
