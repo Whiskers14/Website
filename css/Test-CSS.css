@@ -12,3 +12,13 @@ li {
 li.coming-soon {
     display: none;
 }
+
+ul {
+    position        : fixed;
+    top             : 0px;
+    left            : 0px;
+    padding         : 10px;
+    margin          : 0px;
+    width           : 100%;
+    background-color: #efefef;
+}
