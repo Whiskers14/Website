@@ -1,9 +1,14 @@
 body {
-    width: 750px;
-    font-famiily: Roboto;
-    background-color: rgb(177, 177, 177);}
-li{
-    display: inline;
-    margin-right: 10px;}
+    width           : 750px;
+    font-famiily    : Roboto;
+    background-color: rgb(177, 177, 177);
+}
+
+li {
+    display     : inline;
+    margin-right: 10px;
+}
+
 li.coming-soon {
-display:none;}
+    display: none;
+}
