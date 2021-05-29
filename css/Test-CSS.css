@@ -20,3 +20,7 @@ li {
 li.coming-soon {
     display: none;
 }
+
+tr {
+    text-align: center;
+}
