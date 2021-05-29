@@ -1,13 +1,19 @@
 body {
     width           : 960px;
     margin          : 0 auto;
-    font-family    : Roboto;
+    font-family     : Roboto;
     background-color: rgb(177, 177, 177);
 }
 
+#nav {
+    background-color: #efefef;
+    padding         : 10px;
+    margin          : 10px;
+}
+
 li {
-    display     : inline;
-    margin-right: 10px;
+    display: inline;
+    padding: 5px;
 }
 
 li.coming-soon {
