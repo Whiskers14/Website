@@ -19,6 +19,6 @@ li {
 
 #Site footer .Social-Links a {
     width  : 25%;
-    height : 50%;
+    height : auto;
     color  : #222733;
 }
