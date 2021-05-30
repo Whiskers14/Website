@@ -20,7 +20,9 @@ li {
 #Social-Links {
     display: block;
     width: 1.5em;
-    
+    height: 1.5em;
+    font-size: 1.5em;
+    color: #222733;
 }
 
 text-align: center;
