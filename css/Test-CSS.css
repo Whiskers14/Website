@@ -17,8 +17,8 @@ li {
     padding: 5px;
 }
 
-#Site-Footer .Social-Links img{
-    width: 50%;
-    height: 50%;
+#Site-Footer .Social-Links a{
+    width: 25%;
+    height: 25%;
     text-align: center;
 }
