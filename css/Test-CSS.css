@@ -17,9 +17,8 @@ li {
     padding: 5px;
 }
 
-#Site footer.Social-Links a {
-    display  : block;
-    width    : 25%;
-    height   : 50%;
-    color    : #222733;
+#Site footer .Social-Links a {
+    width  : 25%;
+    height : 50%;
+    color  : #222733;
 }
