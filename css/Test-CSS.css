@@ -17,7 +17,7 @@ li {
     padding: 5px;
 }
 
-#Site-Footer .Social-Links {
+#Site-Footer .Social-Links a{
     width: 30px;
     height: auto;
     text-align: center;
