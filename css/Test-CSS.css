@@ -17,10 +17,9 @@ li {
     padding: 5px;
 }
 
-li.coming-soon {
-    display: none;
+#Social-Links {
+    display: block;
 }
 
-table {
-    text-align: center;
+text-align: center;
 }
