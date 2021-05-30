@@ -17,10 +17,10 @@ li {
     padding: 5px;
 }
 
-#socials .Social-Links {
-    display: block;
-    width: 50%;
-    height: 50%;
+#socials .Social-Links a {
+    display  : block;
+    width    : 50%;
+    height   : 50%;
     font-size: 1.5em;
-    color: #222733;
+    color    : #222733;
 }
