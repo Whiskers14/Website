@@ -19,6 +19,6 @@ li {
 
 #Site-Footer .Social-Links img{
     width: 25%;
-    height: 25%;
+    height: auto;
     text-align: center;
 }
